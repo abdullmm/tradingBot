@@ -6,8 +6,8 @@ import time
 import pandas as pd
 # binance creds
 binance_keys = {
-	'api_key' : "c4KAJqkwKSo4iq5scrZbdwD2YTUCCpEq12ZTav8XXxq8xpcPHgLr6RIbr5MwHrhO",
-	'secret_key' : "gSW5B6gVW8ldSspVjBQjLhzn5VaQiPqBZIHXTMSGTZpVKk4BK7RM6q7M6h4OH8qB"
+	'api_key' : "API-KEY-HERE",
+	'secret_key' : "SECRET-KEY-HERE"
 }
 
 class Binance:
